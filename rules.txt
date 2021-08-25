@@ -1,0 +1,47 @@
+The bishop moves in an "X" shape/pattern/sign.
+The knight moves in an "L" shape/pattern/sign.
+The rook moves in an "+" shape/pattern/sign.
+The queen moves like a rook and bishop combined "+X"
+The king can move all direction
+
+The king moves exactly one square horizontally, vertically, or diagonally. A special move with the king known as castling is allowed only once per player, per game (see below).
+A bishop moves any number of vacant squares diagonally.
+The queen moves any number of vacant squares horizontally, vertically, or diagonally.
+A knight moves to the nearest square not on the same rank, file, or diagonal. (This can be thought of as moving two squares horizontally then one square vertically, or moving one square horizontally then two squares vertically—i.e. in an "L" pattern.) The knight is not blocked by other pieces: it jumps to the new location.
+
+Pawns have the most complex rules of movement:
+A pawn moves straight forward one square, if that square is vacant. If it has not yet moved, a pawn also has the option of moving two squares straight forward, provided both squares are vacant. Pawns cannot move backwards.
+A pawn, unlike other pieces, captures differently from how it moves. A pawn can capture an enemy piece on either of the two squares diagonally in front of the pawn (but cannot move to those squares if they are vacant).
+The pawn is also involved in the two special moves en passant and promotion (Schiller 2003:17–19).
+
+
+A bishop moves any number of vacant squares diagonally in a straight line. Consequently, a bishop stays on squares of the same color throughout a game. The two bishops each player starts with move on squares of opposite colors.
+The queen moves any number of vacant squares in any direction: forwards, backwards, left, right, or diagonally, in a straight line.
+The king moves exactly one vacant square in any direction: forwards, backwards, left, right, or diagonally; however, it cannot move to a square that is under attack by an opponent, nor can a player make a move with another piece if it will leave the king in check. It also has a special move called castling, in which the king moves two squares towards one of its own rooks and in the same move, the rook jumps over the king to land on the square on the king's other side. Castling may only be performed if the king and rook involved have never previously been moved in the game, if the king is not in check, if the king would not travel through or into check, and if there are no pieces between the rook and the king.
+A knight moves on an extended diagonal from one corner of any two-by-three rectangle of squares to the farthest opposite corner. Consequently, the knight alternates its square color each time it moves. Other than the castling move described above where the rook jumps over the king, the knight is the only piece permitted to routinely jump over any intervening piece(s) when moving.
+
+
+	
+
+
+For Programe
+
+1.The king moves exactly one vacant square in any direction: forwards, backwards, left, right, or diagonally; however, it cannot move to a square that is under attack by an opponent, nor can a player make a move with another piece if it will leave the king in check. 
+It also has a special move called castling, in which the king moves two squares towards one of its own rooks and in the same move, the rook jumps over the king to land on the square on the king's other side. 
+Castling may only be performed if the king and rook involved have never previously been moved in the game, if the king is not in check, if the king would not travel through or into check, and if there are no pieces between the rook and the king.
+
+2.A knight moves on an extended diagonal from one corner of any two-by-three rectangle of squares to the farthest opposite corner. Consequently, the knight alternates its square color each time it moves.
+Other than the castling move described above where the rook jumps over the king, the knight is the only piece permitted to routinely jump over any intervening piece(s) when moving.
+
+3.A bishop moves any number of vacant squares diagonally in a straight line. Consequently, a bishop stays on squares of the same color throughout a game. The two bishops each player starts with move on squares of opposite colors.Move denoted by "X"
+4.A rook moves any number of vacant squares forwards, backwards, left, or right in a straight line. It also takes part, along with the king, in a special move called castling. Move denoted by "+"
+5.The queen moves any number of vacant squares in any direction: forwards, backwards, left, right, or diagonally, in a straight line.
+
+
+Pawns have the most complex rules of movement:
+A pawn moves straight forward one square, if that square is vacant. If it has not yet moved, a pawn also has the option of moving two squares straight forward, provided both squares are vacant. Pawns cannot move backwards.
+A pawn, unlike other pieces, captures differently from how it moves. A pawn can capture an enemy piece on either of the two squares diagonally in front of the pawn (but cannot move to those squares if they are vacant).
+The pawn is also involved in the two special moves en passant and promotion (Schiller 2003:17–19).
+
+A pawn moves forward exactly one square, or optionally, two squares when on its starting square, toward the opponent's side of the board. When there is an enemy piece one square diagonally ahead of a pawn, either left or right, then the pawn may capture that piece. A pawn can perform a special type of capture of an enemy pawn called en passant ("in passing"). If the pawn reaches a square on the back rank of the opponent, it promotes to the player's choice of a queen, rook, bishop, or knight (Just & Burg 2003:13–16).
+Pieces other than pawns capture in the same way that they move, except for castling. A capturing piece replaces the opponent piece on its square, except for an en passant capture by a pawn. Captured pieces are immediately removed from the game. A square may hold only one piece at any given time. Except for castling and the knight's move, no piece may jump over another piece (Just & Burg 2003:13–16).
